@@ -84,5 +84,4 @@ Expected Outcome: Improved understanding of Windows authentication security and 
 👨‍💻 ABOUT CYBERSECKID
 Cyberseckid is committed to developing practical cybersecurity skills through continuous learning, hands-on labs, security projects, and real-world defensive scenarios.
 Mission: To learn, build, protect, and contribute to a safer digital environment.
-Motto:
-LEARN | BUILD | DEFEND
+
